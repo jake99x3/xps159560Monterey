@@ -6,4 +6,6 @@
  
  4k TouchScreen
  
- Fully functional aside from combojack, will resolve soon
+IServices/iMessage working, combojack/headphone jack working, 4k touchscreen working.
+
+Killerwireless card not working. Replace with DW1650
