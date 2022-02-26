@@ -6,7 +6,7 @@
  
  4k TouchScreen
  
-IServices/iMessage working, combojack/headphone jack working, 4k touchscreen working.
+IServices/iMessage working, combojack/headphone jack working, 4k touchscreen working, wifi and airdrop workin with DW1650
 
 Killerwireless card not working. Replace with DW1650
 
